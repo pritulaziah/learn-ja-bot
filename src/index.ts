@@ -4,6 +4,7 @@ import { PrismaClient } from '@prisma/client';
 import { Context } from './context';
 import attachUser from './middlewares/attachUser';
 import { handleHiragana, handleKatakana } from './commands/index.js';
+import { inlineQueryWord } from './inlineQueries';
 
 dotenv.config();
 
@@ -25,6 +26,8 @@ async function main() {
   bot.command('katakana', handleKatakana);
   bot.command('hiragana', handleHiragana);
   // Handlers
+  // Inline queries
+  bot.inlineQuery(/word/, inlineQueryWord);
 
   await bot.init();
   await prisma.$connect();
