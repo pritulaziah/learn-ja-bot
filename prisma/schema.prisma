@@ -1,0 +1,40 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+  previewFeatures = ["fullTextSearch"]
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id           Int      @id @default(autoincrement())
+  telegramId   BigInt   @unique @map("telegram_id")
+  role         String   @default("user")
+  updatedAt    DateTime @updatedAt @map("updated_at")
+  createdAt    DateTime @default(now()) @map("created_at")
+  @@map(name: "users")
+}
+
+model Kana {
+  id           Int      @id @default(autoincrement())
+  romaji       String   @unique
+  ru           String
+  type         String
+  hiragana     String
+  katakana     String
+  @@map(name: "kana")
+}
+
+model Word {
+  id           Int      @id @default(autoincrement())
+  lesson       Int      
+  japanese     String   @unique
+  meaning      String
+  romaji       String
+  @@map(name: "words")
+}

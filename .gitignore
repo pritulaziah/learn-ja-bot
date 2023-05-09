@@ -1,0 +1,11 @@
+node_modules/
+build
+.env
+!prisma/
+prisma/*
+!prisma/seed.ts
+!prisma/schema.prisma
+!prisma/migrations/
+prisma/migrations/*
+!prisma/migrations/migration_lock.toml
+.DS_Store
