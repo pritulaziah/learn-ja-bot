@@ -1,0 +1,127 @@
+[
+  {
+    "japanese": "ここ",
+    "romaji": "koko",
+    "meaning": "здесь (о месте, более близком к говорящему)"
+  },
+  {
+    "japanese": "そこ",
+    "romaji": "soko",
+    "meaning": "здесь, там (о месте, более близком к собеседнику)"
+  },
+  {
+    "japanese": "あそこ",
+    "romaji": "asoko",
+    "meaning": "там (о месте, одинаково удалённом как от говорящего, так и от собеседника)"
+  },
+  {
+    "japanese": "どこ",
+    "romaji": "doko",
+    "meaning": "где"
+  },
+  {
+    "japanese": "きょうしつ",
+    "meaning": "аудитория, класс",
+    "romaji": "kyoushitsu"
+  },
+  {
+    "japanese": "しょくどう",
+    "meaning": "столовая",
+    "romaji": "shokudou"
+  },
+  {
+    "japanese": "じむしょ",
+    "meaning": "контора, офис",
+    "romaji": "jimusho"
+  },
+  {
+    "japanese": "かいぎしつ",
+    "meaning": "зал заседаний",
+    "romaji": "kaigishitsu"
+  },
+  {
+    "japanese": "うけつけ",
+    "meaning": "приёмная, регистратура, стойка администратора(ресепшен, например: в гостинице или в спортклубе)",
+    "romaji": "uketsuke"
+  },
+  {
+    "japanese": "ロビー",
+    "meaning": "вестибюль, холл",
+    "romaji": "robii"
+  },
+  {
+    "japanese": "へや",
+    "meaning": "комната",
+    "romaji": "heya"
+  },
+  {
+    "japanese": "トイレ",
+    "meaning": "туалет",
+    "romaji": "toire"
+  },
+  {
+    "japanese": "かいだん",
+    "meaning": "лестница",
+    "romaji": "kaidan"
+  },
+  {
+    "japanese": "エレベーター",
+    "meaning": "лифт",
+    "romaji": "erebeetaa"
+  },
+  {
+    "japanese": "エスカレーター",
+    "meaning": "эскалатор",
+    "romaji": "esukareetaa"
+  },
+  {
+    "japanese": "じどうはんばいき",
+    "meaning": "автомат по продаже(напитков, марок и т.п.)",
+    "romaji": "jidouhanbaiki"
+  },
+  {
+    "japanese": "でんわ",
+    "meaning": "телефон, телефонный разговор",
+    "romaji": "denwa"
+  },
+  {
+    "japanese": "[あ]くに",
+    "meaning": "страна",
+    "romaji": "[a]kuni"
+  },
+  {
+    "japanese": "かいしゃ",
+    "meaning": "компания, фирма",
+    "romaji": "kaisha"
+  },
+  {
+    "japanese": "くつ",
+    "meaning": "обувь, туфли",
+    "romaji": "kutsu"
+  },
+  {
+    "japanese": "ネクタイ",
+    "meaning": "галстук",
+    "romaji": "nekutai"
+  },
+  {
+    "japanese": "ワイン",
+    "meaning": "вино",
+    "romaji": "wain"
+  },
+  {
+    "japanese": "うりば",
+    "meaning": "прилавок, отдел (в магазине)",
+    "romaji": "uriba"
+  },
+  {
+    "japanese": "ちか",
+    "meaning": "подвальное помещение, подвальный этаж",
+    "romaji": "chika"
+  },
+  {
+    "japanese": "いくら",
+    "meaning": "сколько стоит",
+    "romaji": "ikura"
+  }
+]

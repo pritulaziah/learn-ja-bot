@@ -4,6 +4,8 @@ build
 !prisma/
 prisma/*
 !prisma/seed.ts
+!prisma/kana.json
+!prisma/words/
 !prisma/schema.prisma
 !prisma/migrations/
 prisma/migrations/*
