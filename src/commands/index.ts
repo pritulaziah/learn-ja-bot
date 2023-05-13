@@ -1,2 +1,3 @@
-export * from './hiragana.js';
-export * from './katakana.js';
+export * from './handleHiragana';
+export * from './handleKatakana';
+export * from './handleLesson';

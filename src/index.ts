@@ -3,7 +3,7 @@ import { Bot, Composer } from 'grammy';
 import { PrismaClient } from '@prisma/client';
 import { Context } from './context';
 import attachUser from './middlewares/attachUser';
-import { handleHiragana, handleKatakana } from './commands/index.js';
+import { handleHiragana, handleKatakana, handleLesson } from './commands/index.js';
 import { inlineQueryWord } from './inlineQueries';
 
 dotenv.config();
@@ -25,6 +25,7 @@ async function main() {
   // Commands
   bot.command('katakana', handleKatakana);
   bot.command('hiragana', handleHiragana);
+  bot.command('lesson', handleLesson);
   // Handlers
   // Inline queries
   bot.inlineQuery(/word/, inlineQueryWord);
