@@ -1,16 +1,18 @@
 import { Context } from '../context';
 import isNumeric from '../utils/isNumeric';
+import sanitize from '../utils/santize';
 
 export async function handleLesson(ctx: Context) {
   const match = ctx.match;
 
   if (typeof match !== 'string') {
+    // TODO: this is possible?
     return;
   }
 
   if (!match) {
     return await ctx.reply(
-      `<b>Please provide a lesson number.</b>\n<code>Syntax: /lesson &lt;lesson_number&gt;</code>`,
+      sanitize(`Please provide a lesson argument.\nSyntax: <pre>/lesson <lesson_number></pre>`),
       { parse_mode: 'HTML' },
     );
   }
@@ -22,10 +24,14 @@ export async function handleLesson(ctx: Context) {
   const lesson = Number(match);
   const lessonWords = await ctx.prisma.word.findMany({ where: { lesson } });
 
+  if (lessonWords.length == 0) {
+    return;
+  }
+
   const text = lessonWords.map(
     (lessonWord) =>
       `<b>${lessonWord.japanese}</b> (${lessonWord.romaji}) - <i>${lessonWord.meaning}</i>`,
   );
 
-  return await ctx.reply(text.join('\n'), { parse_mode: 'HTML' });
+  return await ctx.reply(sanitize(text.join('\n')), { parse_mode: 'HTML' });
 }
