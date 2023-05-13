@@ -3,7 +3,7 @@ import { Bot, Composer } from 'grammy';
 import { PrismaClient } from '@prisma/client';
 import { Context } from './context';
 import attachUser from './middlewares/attachUser';
-import { handleHiragana, handleKatakana, handleLesson } from './commands/index.js';
+import { handleHiragana, handleKatakana, handleLesson } from './handlers';
 import { inlineQueryWord } from './inlineQueries';
 
 dotenv.config();
