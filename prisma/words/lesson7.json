@@ -1,0 +1,48 @@
+[
+  {
+    "japanese": "きります",
+    "romaji": "kirimasu",
+    "meaning": "резать, нарезать"
+  },
+  {
+    "japanese": "おくります",
+    "romaji": "okurimasu",
+    "meaning": "посылать, отправлять (факс, посылку, груз)"
+  },
+  {
+    "japanese": "あげます",
+    "romaji": "agemasu",
+    "meaning": "давать (преподносить, отдавать, дарить, т.е. вещь  переходит от говорящего в собственность собеседника)"
+  },
+  {
+    "japanese": "もりいます",
+    "romaji": "moraimasu",
+    "meaning": "получать (т.е. вещь переходит от собеседника в собственность говорящего)"
+  },
+  {
+    "japanese": "かします",
+    "romaji": "kashimasu",
+    "meaning": "давать в долг, на прокат"
+  },
+  {
+    "japanese": "かります",
+    "romaji": "karimasu",
+    "meaning": "брать в долг, на прокат, в лизинг"
+  },
+
+  {
+    "japanese": "おしえます",
+    "romaji": "oshiemasu",
+    "meaning": "преподавать, обучать"
+  },
+  {
+    "japanese": "ならいます",
+    "romaji": "naraimasu",
+    "meaning": "изучать"
+  },
+  {
+    "japanese": "かけます [でんわを〜]",
+    "romaji": "kakemasu [denwao~]",
+    "meaning": "звонить [по телефону]"
+  }
+]
