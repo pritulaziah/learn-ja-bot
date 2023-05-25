@@ -1,0 +1,72 @@
+[
+  {
+    "japanese": "これ",
+    "romaji": "kore",
+    "meaning": "это (о предмете, более близком к говорящему)"
+  },
+  {
+    "japanese": "それ",
+    "romaji": "sore",
+    "meaning": "это, то (о предмете, более близком к собеседнику)"
+  },
+  {
+    "japanese": "この ~",
+    "romaji": "kono",
+    "meaning": "этот"
+  },
+  {
+    "japanese": "その ~",
+    "romaji": "sono",
+    "meaning": "этот, тот"
+  },
+  {
+    "japanese": "あの ~",
+    "romaji": "ano",
+    "meaning": "тот"
+  },
+  {
+    "japanese": "ほん",
+    "romaji": "hon",
+    "meaning": "книга"
+  },
+  {
+    "japanese": "じしょ",
+    "romaji": "jisho",
+    "meaning": "словарь"
+  },
+  {
+    "japanese": "ざっし",
+    "romaji": "zasshi",
+    "meaning": "журнал"
+  },
+  {
+    "japanese": "しんぶん",
+    "romaji": "shinbun",
+    "meaning": "газета"
+  },
+  {
+    "japanese": "ノート",
+    "romaji": "nooto",
+    "meaning": "тетрадь"
+  },
+  {
+    "japanese": "てちょう",
+    "romaji": "techou",
+    "meaning": "записная книжка, блокнот"
+  },
+  {
+    "japanese": "めいし",
+    "romaji": "meishi",
+    "meaning": "визитная карточка"
+  },
+  {
+    "japanese": "カード",
+    "romaji": "kaado",
+    "meaning": "(кредитная) карта, карточка, открытка"
+  },
+  {
+    "japanese": "えんぴつ",
+    "romaji": "enpitsu",
+    "meaning": "карандаш"
+  }
+]

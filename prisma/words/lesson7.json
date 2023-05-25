@@ -29,7 +29,6 @@
     "romaji": "karimasu",
     "meaning": "брать в долг, на прокат, в лизинг"
   },
-
   {
     "japanese": "おしえます",
     "romaji": "oshiemasu",
@@ -44,5 +43,35 @@
     "japanese": "かけます [でんわを〜]",
     "romaji": "kakemasu [denwao~]",
     "meaning": "звонить [по телефону]"
+  },
+  {
+    "japanese": "て",
+    "romaji": "te",
+    "meaning": "рука, кисть"
+  },
+  {
+    "japanese": "はし",
+    "romaji": "hashi",
+    "meaning": "палочки для еды"
+  },
+  {
+    "japanese": "スプーン",
+    "romaji": "supuun",
+    "meaning": "ложка"
+  },
+  {
+    "japanese": "ナイフ",
+    "romaji": "naifu",
+    "meaning": "нож"
+  },
+  {
+    "japanese": "フォーク",
+    "romaji": "fooku",
+    "meaning": "вилка"
+  },
+  {
+    "japanese": "はさみ",
+    "romaji": "hasami",
+    "meaning": "ножницы"
   }
 ]
