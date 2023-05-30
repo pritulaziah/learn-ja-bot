@@ -36,5 +36,6 @@ model Word {
   japanese     String   @unique
   meaning      String
   romaji       String
+  verb         Boolean  @default(false)
   @@map(name: "words")
 }

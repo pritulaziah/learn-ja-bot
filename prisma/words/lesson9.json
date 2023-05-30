@@ -2,12 +2,14 @@
   {
     "japanese": "わかります",
     "romaji": "wakarimasu",
-    "meaning": "понимать"
+    "meaning": "понимать",
+    "verb": true
   },
   {
     "japanese": "あります",
     "romaji": "arimasu",
-    "meaning": "иметь, быть (в наличии), у кого-то есть"
+    "meaning": "иметь, быть (в наличии), у кого-то есть",
+    "verb": true
   },
   {
     "japanese": "すき[な]",

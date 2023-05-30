@@ -2,47 +2,56 @@
   {
     "japanese": "きります",
     "romaji": "kirimasu",
-    "meaning": "резать, нарезать"
+    "meaning": "резать, нарезать",
+    "verb": true
   },
   {
     "japanese": "おくります",
     "romaji": "okurimasu",
-    "meaning": "посылать, отправлять (факс, посылку, груз)"
+    "meaning": "посылать, отправлять (факс, посылку, груз)",
+    "verb": true
   },
   {
     "japanese": "あげます",
     "romaji": "agemasu",
-    "meaning": "давать (преподносить, отдавать, дарить, т.е. вещь  переходит от говорящего в собственность собеседника)"
+    "meaning": "давать (преподносить, отдавать, дарить, т.е. вещь  переходит от говорящего в собственность собеседника)",
+    "verb": true
   },
   {
     "japanese": "もりいます",
     "romaji": "moraimasu",
-    "meaning": "получать (т.е. вещь переходит от собеседника в собственность говорящего)"
+    "meaning": "получать (т.е. вещь переходит от собеседника в собственность говорящего)",
+    "verb": true
   },
   {
     "japanese": "かします",
     "romaji": "kashimasu",
-    "meaning": "давать в долг, на прокат"
+    "meaning": "давать в долг, на прокат",
+    "verb": true
   },
   {
     "japanese": "かります",
     "romaji": "karimasu",
-    "meaning": "брать в долг, на прокат, в лизинг"
+    "meaning": "брать в долг, на прокат, в лизинг",
+    "verb": true
   },
   {
     "japanese": "おしえます",
     "romaji": "oshiemasu",
-    "meaning": "преподавать, обучать"
+    "meaning": "преподавать, обучать",
+    "verb": true
   },
   {
     "japanese": "ならいます",
     "romaji": "naraimasu",
-    "meaning": "изучать"
+    "meaning": "изучать",
+    "verb": true
   },
   {
     "japanese": "かけます [でんわを〜]",
-    "romaji": "kakemasu [denwao~]",
-    "meaning": "звонить [по телефону]"
+    "romaji": "kakemasu [denwawo~]",
+    "meaning": "звонить [по телефону]",
+    "verb": true
   },
   {
     "japanese": "て",

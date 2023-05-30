@@ -1,0 +1,62 @@
+[
+  {
+    "japanese": "たべます",
+    "romaji": "tabemasu",
+    "meaning": "есть",
+    "verb": true
+  },
+  {
+    "japanese": "のみます",
+    "romaji": "nomimasu",
+    "meaning": "пить, глотать",
+    "verb": true
+  },
+  {
+    "japanese": "すいます [たばこを~]",
+    "romaji": "suimasu [tabakowo~]",
+    "meaning": "курить [сигареты, табак]",
+    "verb": true
+  },
+  {
+    "japanese": "みます",
+    "romaji": "mimasu",
+    "meaning": "смотреть, видеть",
+    "verb": true
+  },
+  {
+    "japanese": "ききます",
+    "romaji": "kikimasu",
+    "meaning": "слушать, слышать",
+    "verb": true
+  },
+  {
+    "japanese": "よみます",
+    "romaji": "yomimasu",
+    "meaning": "читать, произносить",
+    "verb": true
+  },
+  {
+    "japanese": "かきます",
+    "romaji": "",
+    "meaning": "",
+    "verb": true
+  },
+  {
+    "japanese": "とります [しゃしんを~]",
+    "romaji": "torimasu [shashinwo~]",
+    "meaning": "снимать [фотографию]",
+    "verb": true
+  },
+  {
+    "japanese": "します",
+    "romaji": "shimasu",
+    "meaning": "делать",
+    "verb": true
+  },
+  {
+    "japanese": "あいます [ともだちに~]",
+    "romaji": "aimasu [tomodachiwo~]",
+    "meaning": "встречать [друга]",
+    "verb": true
+  }
+]
